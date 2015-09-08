@@ -1,6 +1,6 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+#node and coverage
+battleshipApp/node_modules
+battleshipApp/coverage
 
 # Folder config file
 Desktop.ini
